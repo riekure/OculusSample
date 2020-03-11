@@ -4,7 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/VRBrake.unity
-    guid: fe0d54a77c0b2b846901e4a1f691979b
+  m_Scenes: []
+  m_configObjects: {}
